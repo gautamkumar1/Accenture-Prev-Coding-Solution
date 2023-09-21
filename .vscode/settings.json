@@ -1,0 +1,8 @@
+{
+  "files.associations": {
+    "xutility": "cpp",
+    "vector": "cpp",
+    "xiosbase": "cpp"
+  },
+  "C_Cpp.errorSquiggles": "disabled"
+}
